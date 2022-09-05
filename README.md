@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes This is a brief introduction for my first project. The project is called Recipes. This is the beginning of my web dev journey. 
